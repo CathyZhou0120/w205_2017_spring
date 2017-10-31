@@ -1,0 +1,19 @@
+4	FIRSTHEALTH MOORE REGIONAL HOSPITAL
+4	ALTA VIEW HOSPITAL
+4	NAZARETH HOSPITAL
+4	LEGACY MOUNT HOOD MEDICAL CENTER
+4	LEGACY MERIDIAN PARK MEDICAL CENTER
+4	BAYLOR SCOTT AND WHITE  MEDICAL CENTER  MCKINNEY
+4	HAMILTON MEDICAL CENTER
+4	ALLEN HOSPITAL
+4	GOOD SHEPHERD MEDICAL CENTER MARSHALL
+3	RENOWN REGIONAL MEDICAL CENTER
+
+##### here we retrieve the top 10 hospitals that have all
+condition(procedures) above the 75th percentile of the population level, with
+at least average length of measure time, and most procedure types.
+
+##### i.e. out of all hospitals that were measured for various procedures,
+these 10 hospitals had the most type of procuderes, while manage to maintain
+all of the above the 75th percentle score , and have been measured for at
+least longer than the average measure lenth of the whole population ##

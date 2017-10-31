@@ -1,0 +1,8 @@
+0.18252427058524642	0.1825861222526763
+
+### here we calculate  correlation between average hopistal scores and its
+rating from patiens, we used manual calculate (covariance (score, rating) /
+standard_deviation(rating)*standard_deviation(score), and the imbedded
+correlation function in HIVE tom compare. the conclusion is that there does
+not seem to be a strong relation between hospital s overall score and their
+patients rating##

@@ -1,0 +1,10 @@
+CA
+CO
+IN
+ND
+NH
+SD
+
+## these are the states that have average measure score above the 75th
+percentile population score level, and have been measure at least lenger than
+the average measuring days of the population ##

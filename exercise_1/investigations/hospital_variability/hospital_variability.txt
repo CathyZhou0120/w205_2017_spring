@@ -1,0 +1,11 @@
+Blood Clot Prevention and Treatment	2007.8142939004535	100.0	44.81524540024598
+Heart Attack or Chest Pain	1835.128298419903	389.0	42.842495864975675
+Cataract surgery outcome	856.506617420745	100.0	29.526282841666937
+Colonoscopy care	508.8726095053462	100.0	22.560368471777366
+Stroke Care	266.56030972995256	100.0	16.33551674925849
+Preventive Care	216.39836265182666	100.0	14.711408898929394
+Pregnancy and Delivery Care	19.40407998552669	86.0	4.405892114820288
+
+###### order by descending order, we can see that Blood clot prevention and
+treatment has the highest variability is variance, range (max - min), and
+standard_deviation ###
