@@ -1,1 +1,7 @@
 -0.24127119740348932
+
+## what's interesting is that there seems to be a week negative relation
+between hospital's procedures types and patients rating. Of course it could be
+caused of multiple reasons: the more patients, the more likely someone gives
+negative ratings; with more conditions, it is more difficult for hospitals to
+manage , etc 
